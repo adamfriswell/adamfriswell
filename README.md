@@ -2,7 +2,7 @@
 I'm a mid level backend .NET engineer, based in London, UK <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="13"/>
 - 🌱 I’m currently learning: Azure + IaC + Powershell
 - 💬 Ask me about: .NET, Notion
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adam-friswell/)
 - 😄 Pronouns: he/him
 
 ## 👨‍💻 My tech stack
