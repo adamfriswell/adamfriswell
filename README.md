@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Adam
-
+I'm a mid level backend .NET engineer, based in London, UK <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="13"/>
 - 🌱 I’m currently learning: Azure + IaC + Powershell
-
 - 💬 Ask me about: .NET, Notion
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him
 
-## 👨‍💻 My tech stack 
+## 👨‍💻 My tech stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
