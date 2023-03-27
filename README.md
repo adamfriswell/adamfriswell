@@ -13,3 +13,11 @@ I'm a mid level backend .NET engineer, based in London, UK <img src="https://cdn
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfriswell&show_icons=true&count_private=true&langs_count=3&theme=codeSTACKr" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfriswell&show_icons=true&count_private=true&theme=codeSTACKr" alt="Adam's GitHub Stats" />
+</a>
