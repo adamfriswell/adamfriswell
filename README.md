@@ -21,3 +21,5 @@ I'm a backend .NET engineer, based in London, UK <img src="https://cdn-icons-png
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Action](https://img.shields.io/badge/githubactions-%234486fc.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<br/>
+<img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="200">
