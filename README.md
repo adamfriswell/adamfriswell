@@ -14,8 +14,6 @@ I'm a backend .NET engineer, based in London, UK <img src="https://cdn-icons-png
 ## GitHub Stats
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfriswell&show_icons=true&count_private=true&langs_count=3&theme=codeSTACKr&bg_color=151515" alt="Adam's GitHub top languages" />
-</a>
-<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamfriswell&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=151515" alt="Adam's GitHub stats" />
 </a>
 <a>
