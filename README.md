@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Adam
 I'm a backend .NET engineer, based in London, UK <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="13"/>
 - 🌱 I’m currently learning: a range of Azure services + IaC + Powershell
-- 💬 Ask me about: C#/.NET, Notion
+- 💬 Ask me about: C#/.NET, Github Actions, Notion
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adam-friswell/)
 - 😄 Pronouns: he/him
 
