@@ -8,9 +8,9 @@ I'm a backend .NET engineer, based in London, UK <img src="https://cdn-icons-png
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)  <br/>
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#) ![Claude](https://img.shields.io/badge/Claude-D97757?logo=Claude&logoColor=FFFFFF) [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) <br/>
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-146fbf?logo=mspowershell&logoColor=white)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) <br/>
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-146fbf?logo=mspowershell&logoColor=white)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) [![PlantUML](https://custom-icon-badges.demolab.com/badge/PlantUML-a11f40?logo=puml&logoColor=white)](#)<br/>
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) <br/>
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=FFFFFF) <br/>
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0085cf.svg?logo=vscodemin&logoColor=white)](#) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=FFFFFF) <br/>
 
 
 ## GitHub Stats
